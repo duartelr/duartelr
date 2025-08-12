@@ -19,18 +19,18 @@
 
 ## ```$ cd ~/repos```
 
-- 🥇 My main project is [Nothin' Here](https://github.com/duartelr).
-- 💜 I love backend and in the future I will start sharing my projects.
+- 🥇 I'm still starting to work on a project [New Project ] (https://github.com/duartelr).
+- 💜 I love front-end and in the future I will start sharing my projects.
 
 ## ```$ cat skills.txt```
 
 <!--- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.-->
 - ✨ I've been using Ruby for the last 2 years, always trying to do it with the best practices.
-- 🗃 I have experience using MongoDB, PostgreSQL, Redis, and more! 
+- 🗃 I have experience using  MySQL, DynamoDB, ElasticSearch and more! 
 
 ## ```$ ssh root@future.interests ```
 
-- 🍧 I wanna use Golang in a near future.
+- 🍧 I wanna use Ruby in a near future.
 - 🔐 I really want to get better at testing software.
 - 💵 ~~Get Hired 🚀~~ Working 💪
 
