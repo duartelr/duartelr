@@ -6,7 +6,7 @@
 
   <p align="center">
      🔥 A young Brazilian who loves programming 🔥
-    <!---I know that `br` is not the best way of do it, but i just think on that-->
+    
     <br />
     <br />
     <br />
@@ -25,13 +25,13 @@
 
 ## ```$ cat skills.txt```
 
-<!--- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.-->
-- ✨ I've been using Ruby for the last 2 years, always trying to do it with the best practices.
-- 🗃 I have experience using  MySQL, DynamoDB, ElasticSearch and more! 
+<!--- 📡Currently managing parking lot servers and shopping mall administrative management.-->
+- ✨ I've been using Node.js, JavaScript , and Python for the past two years, always trying to follow best practices.
+- 🗃 I have experience with MySQL, Microsoft Azure front end, and much more!
 
 ## ```$ ssh root@future.interests ```
 
-- 🍧 I wanna use Ruby in a near future.
+- 🍧 I wanna use TypeScript and React or  in a near future.
 - 🔐 I really want to get better at testing software.
 - 💵 ~~Get Hired 🚀~~ Working 💪
 
