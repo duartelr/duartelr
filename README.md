@@ -37,5 +37,5 @@
 ## ```$ curl http://contact.me ```
 
 - 📬 You can send me an Email: [lucas.drumond4@gmail.com](mailto:lucasdrumond4@gmail.com)
-- 🧧 Here is my Instagram [duarte_lr](https://www.instagram.com/duarte_lr/)
+- 🧧 Here is my Instagram [duarte_lr](https://www.instagram.com/duartelrs/)
 - 🖤 What about Discord? @duartelr
