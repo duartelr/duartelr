@@ -6,11 +6,7 @@
 
   <p align="center">
      🔥 A young Brazilian who loves programming 🔥
-    
-    <br />
-    <br />
-    <br />
-    </p>
+ 
   
 ## ```$ whoami ```
 
