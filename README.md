@@ -10,7 +10,7 @@
   
 ## ```$ whoami ```
 
-- 👤 Users may know me as Duarte . I am 20 years old. 
+- 👤 Users may know me as Duarte . I am 21 years old. 
 - 🌏 I live in the Minas Gerais-Contagem.
 
 ## ```$ cd ~/repos```
