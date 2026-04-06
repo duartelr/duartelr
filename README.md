@@ -15,7 +15,7 @@
 
 ## ```$ cd ~/repos```
 
-- 🥇 [force-update](https://github.com/duartelr/force-update)  
+- 🥇 [DNS-consultant]([https://github.com/duartelr/force-update](https://github.com/duartelr/DNS-consultant))  
   minimal tool focused on controlled system updates
 - 💜 I love front-end and in the future I will start sharing my projects.
 
